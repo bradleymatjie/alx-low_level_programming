@@ -2,9 +2,9 @@
 
 /**
  * main- main block
- * Description: prints out alphabets in both lower case and upper case
- * follwed by a new line
- * Return 0
+ * Description: prints out alphabets in both lower case
+ * and upper case followed by a new line
+ * Return: 0
  */
 int main(void)
 {
