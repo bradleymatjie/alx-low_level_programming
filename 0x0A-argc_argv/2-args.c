@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - a program that prints all it recieves.
+ * main - a program that prints all arguments it recieves.
  * @argc: argument count
  * @argv: array of pointers to argument strings
  * Return: 0
